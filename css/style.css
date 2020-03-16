@@ -60,7 +60,7 @@ input:focus {
 
 #slogan h1 {
 	font-size: 40px;
-	font-family: 'Pacifico', cursive;
+	/* font-family: 'Pacifico', cursive; */
 	margin-bottom: 20px;
 	font-weight: normal;
 }
@@ -147,22 +147,14 @@ section h2 {
 ------------------------------------------------------------*/
 .col3 li {
 	margin-bottom: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
 }
 
 .col3 img {
 	max-width: 288px;
 	display: block;
 	margin: -5px auto 20px;
-}
-
-
-/* SEC04 STORY & SUCCESS
-------------------------------------------------------------*/
-#sec04 {
-	background: url(../images/bgSec04.jpg) no-repeat 100% 100% fixed;
-	background-size: cover;
-	-webkit-background-size: cover;
-	color: #fff;
 }
 
 
